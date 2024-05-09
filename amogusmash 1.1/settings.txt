@@ -1,0 +1,3 @@
+saltoconlevetta=0
+fpscounterr=1
+sens=0.19
